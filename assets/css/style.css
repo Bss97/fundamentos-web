@@ -4,6 +4,7 @@
 }
 .justify {
     text-align: justify;
+    font-size: 17px;
 }
 .container {
     display: flex;
@@ -27,14 +28,14 @@
     padding: 30px;
 }
 .br-50 {
-    border-radius: 50%;
+    border-radius: 7%;
 }
 .wh {
-    width: 650px;
-    height: 500px;
+    width: 600px;
+    height: 450px;
 }
 body {
-    background-color: rgb(103, 184, 216);
+    background-color: rgb(197, 218, 226);
 }
 .mb-50 {
     margin-bottom: 50px;
